@@ -1,0 +1,2 @@
+{"database": {"version": "1.7","tipe script": "premium","user premium": ["VIp",""],"device premium": ["VIP",""]}}
+ 
